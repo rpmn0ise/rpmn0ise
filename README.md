@@ -1,13 +1,88 @@
-<h1 align="center">Hi 👋, I'm RPMNOISE</h1>
-<h3 align="center">I love Omarchy</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776e6,100:8e54e9&height=240&section=header&text=RPMN0ISE&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=IT%20student&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%"/>
+</div>
 
-- 🔭 I’m currently working on [Omarchy Theming](https://github.com/rpmn0ise/Omarchy-Themes-Hub)
+<div align="center">
 
-- 🌱 I’m currently learning **Dev**
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://rpmn0ise.github.io/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+[![Building · My websites](https://img.shields.io/badge/Building%20%E2%86%92%20My%20websites-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/rpmn0ise/rpmn0ise.github.io) ![Dunkerque (UTC+1)](https://img.shields.io/badge/Dunkerque%20(UTC%2B1)-333?style=flat-square)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+</div>
+
+### About
+
+Interested in Linux, self-hosting, and building my own tools.
+I prefer creating my own solutions rather than relying on ready-made services.
+
+⌖ **Location** &nbsp; Dunkerque, France <br/>
+⟳ **Learning** &nbsp; Web dev, JavaScript, python, linux, etc
+
+✦ **Fun fact** &nbsp; 🖥️ Self-hosted: Jellyfin, Navidrome
+
+---
+
+### Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" alt="Languages"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react&theme=dark" alt="Frontend"/>
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb&theme=dark" alt="Backend & Databases"/>
+
+**DevOps & Cloud**
+
+<img src="https://skillicons.dev/icons?i=docker,vercel,git,linux,vscode&theme=dark" alt="DevOps & Cloud"/>
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="AI / ML"/>
+
+---
+
+### Languages
+
+🇬🇧 **English** &nbsp; ![Conversational](https://img.shields.io/badge/-Conversational-important?style=flat-square) <br/>
+🇫🇷 **French** &nbsp; ![Native](https://img.shields.io/badge/-Native-brightgreen?style=flat-square) <br/>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rpmn0ise&show_icons=true&theme=aura&include_all_commits=true&count_private=true&hide_border=true"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpmn0ise&layout=compact&langs_count=8&theme=aura&hide_border=true"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=rpmn0ise&theme=aura&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+### Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rpmn0ise&theme=aura&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=aura)
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge">ReadmeForge</a> &nbsp;·&nbsp; <a href="https://github.com/rpmn0ise">github.com/rpmn0ise</a></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776e6,100:8e54e9&height=120&section=footer" width="100%"/>
+
+</div>
