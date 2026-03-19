@@ -61,6 +61,8 @@ I prefer creating my own solutions rather than relying on ready-made services.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rpmn0ise&theme=aura&hide_border=true)](https://git.io/streak-stats)
 
+![Top Languages](https://vani-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight)
+
 </div>
 
 ---
