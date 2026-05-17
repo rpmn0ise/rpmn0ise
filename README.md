@@ -25,6 +25,8 @@ I am learning by building, sharing projects, and exploring the tools that shape 
 
 - [Reddit base64 decoder](https://github.com/rpmn0ise/reddit-base64-decoder) — Userscript that automatically detects and decodes Base64 strings on Reddit, replacing them with readable content.
 
+- [Omarchy Themes Hub](https://github.com/rpmn0ise/Omarchy-Themes-Hub) — All my Omarchy themes are divided into two categories: Dark and Light. Each theme has a quick installation command and a link to its full repository.
+
 ## Tools I Reach For
 
 **Languages**
