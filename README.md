@@ -28,8 +28,7 @@ I am learning by building, sharing projects, and exploring the tools that shape 
 - [Omarchy Themes Hub](https://github.com/rpmn0ise/Omarchy-Themes-Hub) — All my Omarchy themes are divided into two categories: Dark and Light. Each theme has a quick installation command and a link to its full repository.
 
 ## ✍️ Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Installer un subwoofer de voiture à la maison](https://rpmn0ise.github.io/blog/sub-voiture-maison/) · <kbd>May 20, 2026</kbd>- [Le Labo du Jeu Vidéo — ce que j&#39;en retiens](https://rpmn0ise.github.io/blog/labo-jeu-video-science-etonnante-retour-lecture/) · <kbd>May 18, 2026</kbd>- [Mon expérience avec le tuning d’un subwoofer en bass-reflex](https://rpmn0ise.github.io/blog/subwoofer-bass-reflex-tuning-retour-experience/) · <kbd>Feb 15, 2025</kbd>- [Pourquoi je suis resté sur Arch après avoir tout essayé](https://rpmn0ise.github.io/blog/pourquoi-arch-apres-tout-essaye/) · <kbd>Feb 8, 2025</kbd><!-- BLOG-POST-LIST:END -->
 
 
 ## Tools I Reach For
