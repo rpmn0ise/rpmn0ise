@@ -28,7 +28,9 @@ I am learning by building, sharing projects, and exploring the tools that shape 
 - [Omarchy Themes Hub](https://github.com/rpmn0ise/Omarchy-Themes-Hub) — All my Omarchy themes are divided into two categories: Dark and Light. Each theme has a quick installation command and a link to its full repository.
 
 ## ✍️ Recent Blog Posts
-- Les articles s'afficheront ici d'ici quelques secondes...
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## Tools I Reach For
 
 **Languages**
