@@ -5,6 +5,10 @@ on:
     - cron: '0 */6 * * *'
   workflow_dispatch: # Te permet de le lancer manuellement depuis l'onglet Actions
 
+# Force l'utilisation de Node.js 24 sur le runner pour éviter les warnings de dépréciation
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
