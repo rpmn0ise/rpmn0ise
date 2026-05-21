@@ -5,7 +5,6 @@ on:
     - cron: '0 */6 * * *'
   workflow_dispatch: # Te permet de le lancer manuellement depuis l'onglet Actions
 
-# Force l'utilisation de Node.js 24 sur le runner pour éviter les warnings de dépréciation
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
@@ -13,6 +12,11 @@ jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
+    
+    # Donne l'autorisation au workflow de modifier le contenu de ton dépôt (ton README)
+    permissions:
+      contents: write
+      
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -21,6 +25,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://rpmn0ise.github.io/feed.xml"
-          max_post_count: 4 # Nombre max d'articles à afficher
+          max_post_count: 4
           template: "- [$title]($url) · <kbd>$date</kbd>"
           date_format: "mmm d, yyyy"
