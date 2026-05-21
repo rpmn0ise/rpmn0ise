@@ -1,0 +1,22 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    # S'exécute automatiquement toutes les 6 heures
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Te permet de le lancer manuellement depuis l'onglet Actions
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        
+      - name: Pull in blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://rpmn0ise.github.io/feed.xml"
+          max_post_count: 4 # Nombre max d'articles à afficher
+          template: "- [$title]($url) · <kbd>$date</kbd>"
+          date_format: "mmm d, yyyy"
