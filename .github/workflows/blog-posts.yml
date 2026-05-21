@@ -26,5 +26,5 @@ jobs:
         with:
           feed_list: "https://rpmn0ise.github.io/feed.xml"
           max_post_count: 4
-          template: "- [$title]($url) · <kbd>$date</kbd>"
+          template: "- [$title]($url) · <kbd>$date</kbd>\n"
           date_format: "mmm d, yyyy"
