@@ -10,7 +10,7 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rpmn0ise@proton.me) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://rpmn0ise.github.io/) ![Profile Views](https://komarev.com/ghpvc/?username=rpmn0ise&color=ef4444&style=flat-square)
 
-![Building something](https://img.shields.io/badge/%F0%9F%94%B5%20Building%20something-3b82f6?style=flat-square) ![Building -&gt; My Websites](https://img.shields.io/badge/Building%20-%3E%20My%20Websites-6366f1?style=flat-square&logo=github&logoColor=white)
+![Building something](https://img.shields.io/badge/%F0%9F%94%B5%20Building%20something-3b82f6?style=flat-square) ![Building -> My Websites](https://img.shields.io/badge/Building%20-%3E%20My%20Websites-6366f1?style=flat-square&logo=github&logoColor=white)
 
 I am learning by building, sharing projects, and exploring the tools that shape modern software teams.
 
@@ -28,9 +28,6 @@ I am learning by building, sharing projects, and exploring the tools that shape 
 - [Omarchy Themes Hub](https://github.com/rpmn0ise/Omarchy-Themes-Hub) — All my Omarchy themes are divided into two categories: Dark and Light. Each theme has a quick installation command and a link to its full repository.
 
 ## ✍️ Recent Blog Posts
-
-
-
 ## Tools I Reach For
 
 **Languages**
