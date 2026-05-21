@@ -22,10 +22,10 @@ jobs:
         uses: actions/checkout@v4
         
       - name: Pull in blog posts
-              uses: gautamkrishnar/blog-post-workflow@v1
-              with:
-                feed_list: "https://rpmn0ise.github.io/feed.xml"
-                max_post_count: 4
-                date_format: "mmm d, yyyy"
-                template: |
-                  - [$title]($url) · <kbd>$date</kbd>
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://rpmn0ise.github.io/feed.xml"
+          max_post_count: 4
+          date_format: "mmm d, yyyy"
+          template: |
+            - [$title]($url) · <kbd>$date</kbd>
