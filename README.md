@@ -28,7 +28,7 @@ I am learning by building, sharing projects, and exploring the tools that shape 
 - [Omarchy Themes Hub](https://github.com/rpmn0ise/Omarchy-Themes-Hub) — All my Omarchy themes are divided into two categories: Dark and Light. Each theme has a quick installation command and a link to its full repository.
 
 ## ✍️ Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->- [Apnée statique et dynamique — guide scientifique pour progresser](https://votresite.fr/blog/apnee-statique-dynamique-guide/) · <kbd>May 22, 2026</kbd><br>- [Installer un subwoofer de voiture à la maison](https://votresite.fr/blog/sub-voiture-maison/) · <kbd>May 20, 2026</kbd><br>- [Le Labo du Jeu Vidéo — ce que j&#39;en retiens](https://votresite.fr/blog/labo-jeu-video-science-etonnante-retour-lecture/) · <kbd>May 18, 2026</kbd><br>- [Mon expérience avec le tuning d’un subwoofer en bass-reflex](https://votresite.fr/blog/subwoofer-bass-reflex-tuning-retour-experience/) · <kbd>Feb 15, 2025</kbd><br><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Pourquoi le futur a déjà choisi votre passé](https://votresite.fr/blog/pourquoi-le-futur-a-deja-choisi-votre-passe/) · <kbd>Jun 9, 2026</kbd><br>- [Apnée statique et dynamique — guide scientifique pour progresser](https://votresite.fr/blog/apnee-statique-dynamique-guide/) · <kbd>May 22, 2026</kbd><br>- [Installer un subwoofer de voiture à la maison](https://votresite.fr/blog/sub-voiture-maison/) · <kbd>May 20, 2026</kbd><br>- [Le Labo du Jeu Vidéo — ce que j&#39;en retiens](https://votresite.fr/blog/labo-jeu-video-science-etonnante-retour-lecture/) · <kbd>May 18, 2026</kbd><br><!-- BLOG-POST-LIST:END -->
 
 
 ## Tools I Reach For
