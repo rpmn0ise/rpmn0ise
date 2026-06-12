@@ -1,9 +1,13 @@
 name: Latest blog post workflow
+
 on:
   schedule:
     # S'exécute automatiquement toutes les 6 heures
     - cron: '0 */6 * * *'
   workflow_dispatch: # Te permet de le lancer manuellement depuis l'onglet Actions
+  push:
+    branches:
+      - main
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
@@ -12,20 +16,20 @@ jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
-    
+
     # Donne l'autorisation au workflow de modifier le contenu de ton dépôt (ton README)
     permissions:
       contents: write
-      
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
       - name: Pull in blog posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+        uses: gautamkrishnar/blog-post-workflow@v3
         with:
           feed_list: "https://rpmn0ise.github.io/feed.xml"
           max_post_count: 4
           date_format: "mmm d, yyyy"
-          template: "- [$title]($url) · <kbd>$date</kbd><br>"
-
+          template: "- [$title]($url) · <kbd>$date</kbd>"
+          commit_message: "docs(readme): update latest blog posts"
