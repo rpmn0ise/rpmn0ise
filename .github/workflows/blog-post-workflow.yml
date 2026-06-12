@@ -17,7 +17,6 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
 
-    # Donne l'autorisation au workflow de modifier le contenu de ton dépôt (ton README)
     permissions:
       contents: write
 
@@ -31,5 +30,41 @@ jobs:
           feed_list: "https://rpmn0ise.github.io/feed.xml"
           max_post_count: 4
           date_format: "mmm d, yyyy"
-          template: "- [$title]($url) · <kbd>$date</kbd><br>"
+          template: "- [$title]($url) · <kbd>$date</kbd><br><br>"
           commit_message: "docs(readme): update latest blog posts"
+          committer_username: github-actions[bot]
+          committer_email: github-actions[bot]@users.noreply.github.com
+
+      - name: Fix blog post links rendering
+        run: |
+          python3 - <<'EOF'
+          import re
+
+          with open("README.md", "r", encoding="utf-8") as f:
+              content = f.read()
+
+          pattern = r'(<!-- BLOG-POST-LIST:START -->)(.*?)(<!-- BLOG-POST-LIST:END -->)'
+          match = re.search(pattern, content, re.DOTALL)
+
+          if match:
+              block = match.group(2)
+              # Remplace <br><br> et <br> par de vrais sauts de ligne Markdown
+              block = re.sub(r'<br><br>', '\n\n', block)
+              block = re.sub(r'<br>', '\n\n', block)
+              # Assure une ligne vide propre autour du contenu
+              block = '\n' + block.strip() + '\n\n'
+              content = content[:match.start(2)] + block + content[match.end(2):]
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(content)
+
+          print("Done - blog post links fixed.")
+          EOF
+
+      - name: Commit fixed README
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "docs(readme): fix blog post links rendering"
+          git push
