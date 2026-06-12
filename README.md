@@ -58,12 +58,7 @@ Web development, Java, Python, and more
 
 ### 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Pourquoi le futur a déjà choisi votre passé](https://votresite.fr/blog/pourquoi-le-futur-a-deja-choisi-votre-passe/) · <kbd>Jun 9, 2026</kbd>
-- [Apnée statique et dynamique — guide scientifique pour progresser](https://votresite.fr/blog/apnee-statique-dynamique-guide/) · <kbd>May 22, 2026</kbd>
-- [Installer un subwoofer de voiture à la maison](https://votresite.fr/blog/sub-voiture-maison/) · <kbd>May 20, 2026</kbd>
-- [Le Labo du Jeu Vidéo — ce que j'en retiens](https://votresite.fr/blog/labo-jeu-video-science-etonnante-retour-lecture/) · <kbd>May 18, 2026</kbd>
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Pourquoi le futur a déjà choisi votre passé](https://rpmn0ise.github.io/blog/pourquoi-le-futur-a-deja-choisi-votre-passe/) · <kbd>Jun 9, 2026</kbd>- [Apnée statique et dynamique — guide scientifique pour progresser](https://rpmn0ise.github.io/blog/apnee-statique-dynamique-guide/) · <kbd>May 22, 2026</kbd>- [Installer un subwoofer de voiture à la maison](https://rpmn0ise.github.io/blog/sub-voiture-maison/) · <kbd>May 20, 2026</kbd>- [Le Labo du Jeu Vidéo — ce que j&#39;en retiens](https://rpmn0ise.github.io/blog/labo-jeu-video-science-etonnante-retour-lecture/) · <kbd>May 18, 2026</kbd><!-- BLOG-POST-LIST:END -->
 
 ---
 
