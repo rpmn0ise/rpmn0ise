@@ -31,5 +31,5 @@ jobs:
           feed_list: "https://rpmn0ise.github.io/feed.xml"
           max_post_count: 4
           date_format: "mmm d, yyyy"
-          template: "- [$title]($url) · <kbd>$date</kbd>"
+          template: "- [$title]($url) · <kbd>$date</kbd>  \n"
           commit_message: "docs(readme): update latest blog posts"
