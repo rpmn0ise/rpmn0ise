@@ -1,92 +1,59 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f12711,100:f5af19&height=240&section=header&text=RPMN0ISE&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Computer%20Science%20Student&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="RPMN0ISE banner"/>
-</div>
+# Hi, I'm rpmn0ise 👋
 
-## RPMN0ISE
+### 🚀 Currently working on
+A personal website project
 
-**Computer Science Student**
+### 🌱 Currently learning
+GraphQL and TypeScript
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=ef4444&center=true&vCenter=true&width=640&lines=Learning%20in%20public;Turning%20coursework%20into%20projects)](https://git.io/typing-svg)
+### 👯 Looking to collaborate on
+Open source projects
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rpmn0ise@proton.me) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://rpmn0ise.github.io/) ![Profile Views](https://komarev.com/ghpvc/?username=rpmn0ise&color=ef4444&style=flat-square)
+### 🆘 Looking for help with
+System design
 
-![Building something](https://img.shields.io/badge/%F0%9F%94%B5%20Building%20something-3b82f6?style=flat-square) ![Building -> My Websites](https://img.shields.io/badge/Building%20-%3E%20My%20Websites-6366f1?style=flat-square&logo=github&logoColor=white)
+### 💬 Ask me about
+Web development, Java, Python, and more
 
-I am learning by building, sharing projects, and exploring the tools that shape modern software teams.
+### 📫 How to reach me
+- 📧 Email: rpmn0ise@proton.me
+- 🌐 Website: https://rpmn0ise.pages.dev/
+- 💬 Discord: rpmn0ise
+- 🟠 Reddit: https://www.reddit.com/user/rpmn0ise/
+- ▶️ YouTube: https://www.youtube.com/@rpmn0ise_official
 
-> Building something interesting? Let's connect: https://rpmn0ise.github.io/
+---
 
-## Snapshot
+### 🛠️ Languages and Tools
 
-- ⌖ **Location** · France
-- ⟳ **Learning** · Data structures, web development, and open source contribution
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-## Featured Projects
+---
 
-- [Reddit base64 decoder](https://github.com/rpmn0ise/reddit-base64-decoder) — Userscript that automatically detects and decodes Base64 strings on Reddit, replacing them with readable content.
+### 📊 GitHub Stats
 
-- [Omarchy Themes Hub](https://github.com/rpmn0ise/Omarchy-Themes-Hub) — All my Omarchy themes are divided into two categories: Dark and Light. Each theme has a quick installation command and a link to its full repository.
+![rpmn0ise's GitHub stats](https://github-readme-stats.vercel.app/api?username=rpmn0ise&show_icons=true&theme=radical)
 
-## ✍️ Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->- [Pourquoi le futur a déjà choisi votre passé](https://votresite.fr/blog/pourquoi-le-futur-a-deja-choisi-votre-passe/) · <kbd>Jun 9, 2026</kbd><br>- [Apnée statique et dynamique — guide scientifique pour progresser](https://votresite.fr/blog/apnee-statique-dynamique-guide/) · <kbd>May 22, 2026</kbd><br>- [Installer un subwoofer de voiture à la maison](https://votresite.fr/blog/sub-voiture-maison/) · <kbd>May 20, 2026</kbd><br>- [Le Labo du Jeu Vidéo — ce que j&#39;en retiens](https://votresite.fr/blog/labo-jeu-video-science-etonnante-retour-lecture/) · <kbd>May 18, 2026</kbd><br><!-- BLOG-POST-LIST:END -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rpmn0ise&layout=compact&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rpmn0ise&theme=radical)
 
-## Tools I Reach For
+---
 
-**Languages**
+### 🔗 Connect with me
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,bash&theme=dark" alt="Languages"/>
+[![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/rpmn0ise/)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@rpmn0ise_official)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/rpmn0ise)
+[![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://rpmn0ise.pages.dev/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rpmn0ise@proton.me)
 
-**Backend & Databases**
+---
 
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb&theme=dark" alt="Backend & Databases"/>
-
-**DevOps & Cloud**
-
-<img src="https://skillicons.dev/icons?i=git,vscode,linux,vercel,githubactions,docker&theme=dark" alt="DevOps & Cloud"/>
-
-## Languages
-- 🇬🇧 **English** · ![Conversational](https://img.shields.io/badge/-Conversational-ff8c42?style=flat-square)
-- 🇫🇷 **French** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
-
-## GitHub Signals
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rpmn0ise&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true" alt="RPMN0ISE stats"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpmn0ise&layout=compact&langs_count=8&theme=gruvbox&hide_border=true" alt="RPMN0ISE top languages"/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=rpmn0ise&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
-
-## Extras
-
-### Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rpmn0ise&theme=gruvbox&column=6&no-frame=true&margin-w=8" alt="RPMN0ISE trophies"/>
-
-</div>
-
-### Activity
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rpmn0ise&theme=github&hide_border=true&area=true)](https://github-readme-activity-graph.vercel.app/graph?username=rpmn0ise&theme=github&hide_border=true&area=true)
-
-### Now Playing
-
-<div align="center">
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com)
-
-</div>
-
-> Requires [Novatorem](https://github.com/novatorem/novatorem) setup
-
-## Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-<div align="center">
-
-<sub>[Open ReadmeForge](https://lebedevnet.github.io/ReadmeForge/) · [Get in touch](https://rpmn0ise.github.io/)</sub>
-
-</div>
+![Profile views](https://komarev.com/ghpvc/?username=rpmn0ise&color=blueviolet)
