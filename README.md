@@ -58,7 +58,16 @@ Web development, Java, Python, and more
 
 ### 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [Arnaque aux lobbys triches sur Discord — comment ça vole vraiment vos comptes](https://rpmn0ise.github.io/blog/arnaque-lobbys-discord/) · <kbd>Jun 16, 2026</kbd><br><br>- [Pourquoi le futur a déjà choisi votre passé](https://rpmn0ise.github.io/blog/pourquoi-le-futur-a-deja-choisi-votre-passe/) · <kbd>Jun 9, 2026</kbd><br><br>- [Apnée statique et dynamique — guide scientifique pour progresser](https://rpmn0ise.github.io/blog/apnee-statique-dynamique-guide/) · <kbd>May 22, 2026</kbd><br><br>- [Installer un subwoofer de voiture à la maison](https://rpmn0ise.github.io/blog/sub-voiture-maison/) · <kbd>May 20, 2026</kbd><br><br><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Arnaque aux lobbys triches sur Discord — comment ça vole vraiment vos comptes](https://rpmn0ise.github.io/blog/arnaque-lobbys-discord/) · <kbd>Jun 16, 2026</kbd>
+
+- [Pourquoi le futur a déjà choisi votre passé](https://rpmn0ise.github.io/blog/pourquoi-le-futur-a-deja-choisi-votre-passe/) · <kbd>Jun 9, 2026</kbd>
+
+- [Apnée statique et dynamique — guide scientifique pour progresser](https://rpmn0ise.github.io/blog/apnee-statique-dynamique-guide/) · <kbd>May 22, 2026</kbd>
+
+- [Installer un subwoofer de voiture à la maison](https://rpmn0ise.github.io/blog/sub-voiture-maison/) · <kbd>May 20, 2026</kbd>
+
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
