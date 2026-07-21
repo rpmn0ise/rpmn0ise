@@ -58,16 +58,7 @@ Web development, Java, Python, and more
 
 ### 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Quand un modo abuse de ses droits parce qu&#39;on drift à la manette](https://rpmn0ise.github.io/blog/abus-de-perms-beamng-discord/) · <kbd>Jun 27, 2026</kbd>
-
-- [Arnaque aux lobbys triches sur Discord — comment ça vole vraiment vos comptes](https://rpmn0ise.github.io/blog/arnaque-lobbys-discord/) · <kbd>Jun 16, 2026</kbd>
-
-- [Pourquoi le futur a déjà choisi votre passé](https://rpmn0ise.github.io/blog/pourquoi-le-futur-a-deja-choisi-votre-passe/) · <kbd>Jun 9, 2026</kbd>
-
-- [Apnée statique et dynamique — guide scientifique pour progresser](https://rpmn0ise.github.io/blog/apnee-statique-dynamique-guide/) · <kbd>May 22, 2026</kbd>
-
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Le monde est peut-être à l&#39;envers depuis toujours — et vous ne le sauriez jamais](https://rpmn0ise.github.io/blog/le-monde-est-peut-etre-a-l-envers/) · <kbd>Jul 21, 2026</kbd><br><br>- [Quand un modo abuse de ses droits parce qu&#39;on drift à la manette](https://rpmn0ise.github.io/blog/abus-de-perms-beamng-discord/) · <kbd>Jun 27, 2026</kbd><br><br>- [Arnaque aux lobbys triches sur Discord — comment ça vole vraiment vos comptes](https://rpmn0ise.github.io/blog/arnaque-lobbys-discord/) · <kbd>Jun 16, 2026</kbd><br><br>- [Pourquoi le futur a déjà choisi votre passé](https://rpmn0ise.github.io/blog/pourquoi-le-futur-a-deja-choisi-votre-passe/) · <kbd>Jun 9, 2026</kbd><br><br><!-- BLOG-POST-LIST:END -->
 
 ---
 
